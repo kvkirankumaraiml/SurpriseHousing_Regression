@@ -12,10 +12,10 @@ As a result, The company wants to understand which variables are significant in 
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
-- Bike Sharing Provider BoomBikes wants to understand the factors that affect the the number of Rides. Based on the results, BoomBikes wants to define strategies to run the business into profits.
+- Surprise Housing company wants to predict the price of a house by providing various features of a house.
 - Problem Statement
-	Find out the factors/variables that affect demand for bikes
-	Build model that estimate demand for given set of data for identified variables
+	- understand which variables are significant in predicting the price of a house, and
+	- How well those variables describe the price of a house.
 - Datasets used: 
   Surprise Housing Dataset, that contains the records of sales of houses made in Australia.
 	
