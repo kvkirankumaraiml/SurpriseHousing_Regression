@@ -20,11 +20,12 @@ As a result, The company wants to understand which variables are significant in 
   Surprise Housing Dataset, that contains the records of sales of houses made in Australia.
 	
 ## Conclusions
-- From the model parameters, it is understood that the Casual drives, Working Day (indicates business day), and the year (year by year increase) are contributing positive significantly towards the demand of the shared bikes
-- The Linear Regression model perfectly fits for this objective, as the data target variable count of Rides is linear to the other independent variables like Weather condition, seasons, etc.
-- It’s clearly evident that Spring has a lesser number of rides compared with the other three seasons
-- And the “Fall” season has highest number of rides compared with the other three seasons
-- And the number of rides are increased year by year across all the weather conditions
+- Linear Regression, Ridge and Lasso models are built and assessed to determine the most optimal model
+- From the evaluation metrics of all the three, Lasso appears simpler and more optimized with better results on unknown data.
+- By analyzing more the model parameters, its observed that the Housing customers are concerned about Neighborhood, sq.ft area of ground floor, 1st floor, 2nd floor etc.
+- Size of the Garage also is an important factor.
+- Build quality of basement, Foundation, exterior, Overall Quality of the house, House Style etc are important factors.
+
 
 ## Technologies Used
 - Python - 3.11.5
